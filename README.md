@@ -1,7 +1,7 @@
 # Testimonial_slider
 
 
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+:rocket: [Link to website][https://testimonial-slider-psi-ten.vercel.app/]
 
 
 ![Main Page](image/project_test_1.png)
